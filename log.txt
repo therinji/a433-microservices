@@ -1,0 +1,1421 @@
+failed to get console mode for stdout: The handle is invalid.
+failed to get console mode for stdout: The handle is invalid.
+failed to get console mode for stdout: The handle is invalid.
+[1A[1B[0G[?25l[+] Running 0/0
+ [33m-[0m item-db Pulling [34m0.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m0.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m0.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m0.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m0.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m0.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m0.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m0.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m0.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m1.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m1.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m1.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m1.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m1.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m1.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m1.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m1.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m1.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m1.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m2.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m2.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m2.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m2.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m2.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m2.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m2.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m2.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m2.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m2.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m3.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m3.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m3.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m3.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m3.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m3.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m3.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m3.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m3.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m3.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m4.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m4.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m4.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m4.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m4.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db Pulling [34m4.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m]      0B/0B      Pulling [34m4.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m]      0B/0B      Pulling [34m4.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m]      0B/0B      Pulling [34m4.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m]      0B/0B      Pulling [34m4.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m]      0B/0B      Pulling [34m5.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m]      0B/0B      Pulling [34m5.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m]      0B/0B      Pulling [34m5.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m]      0B/0B      Pulling [34m5.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m]      0B/0B      Pulling [34m5.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m]      0B/0B      Pulling [34m5.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m]      0B/0B      Pulling [34m5.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m]      0B/0B      Pulling [34m5.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m]      0B/0B      Pulling [34m5.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 2/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m]      0B/0B      Pulling [34m5.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 2/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m] 475.1kB/46.25MB Pulling [34m6.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 2/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m] 475.1kB/46.25MB Pulling [34m6.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 2/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m] 945.4kB/46.25MB Pulling [34m6.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 2/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m] 945.4kB/46.25MB Pulling [34m6.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 2/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m] 1.421MB/46.25MB Pulling [34m6.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 2/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m] 1.896MB/46.25MB Pulling [34m6.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 2/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m] 1.896MB/46.25MB Pulling [34m6.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 2/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[0m] 2.371MB/46.25MB Pulling [34m6.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 3/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 2.846MB/46.25MB Pulling [34m6.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 3/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 2.846MB/46.25MB Pulling [34m6.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 3/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 3.321MB/46.25MB Pulling [34m7.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 3/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 3.321MB/46.25MB Pulling [34m7.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 3/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 3.796MB/46.25MB Pulling [34m7.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 3/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 4.271MB/46.25MB Pulling [34m7.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 3/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 4.271MB/46.25MB Pulling [34m7.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 3/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 4.746MB/46.25MB Pulling [34m7.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 3/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 4.746MB/46.25MB Pulling [34m7.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 3/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 5.222MB/46.25MB Pulling [34m7.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 5.697MB/46.25MB Pulling [34m7.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⠀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 5.697MB/46.25MB Pulling [34m7.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 6.172MB/46.25MB Pulling [34m8.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 6.201MB/49.16MB Pulling [34m8.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 6.707MB/49.16MB Pulling [34m8.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 6.737MB/49.16MB Pulling [34m8.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 7.212MB/49.16MB Pulling [34m8.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 7.826MB/49.16MB Pulling [34m8.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 8.301MB/49.16MB Pulling [34m8.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 8.367MB/49.16MB Pulling [34m8.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀[0m] 8.907MB/49.16MB Pulling [34m8.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀[0m] 9.006MB/49.16MB Pulling [34m8.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀[0m] 9.481MB/49.16MB Pulling [34m9.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀[0m] 10.05MB/49.16MB Pulling [34m9.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀[0m] 10.09MB/49.16MB Pulling [34m9.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀[0m] 10.63MB/49.16MB Pulling [34m9.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀[0m] 11.17MB/49.16MB Pulling [34m9.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⣀⠀⠀⠀⠀⠀⠀⠀[0m] 11.74MB/49.16MB Pulling [34m9.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⣀⠀⠀⠀⠀⠀⠀⠀[0m] 11.74MB/49.16MB Pulling [34m9.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⣀⠀⠀⠀⠀⠀⠀⠀[0m] 12.29MB/49.16MB Pulling [34m9.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⡀⣿⣿⣿⣿⣀⠀⠀⠀⠀⠀⠀⠀[0m] 12.38MB/49.16MB Pulling [34m9.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣀⠀⠀⠀⠀⠀⠀⠀[0m] 12.86MB/49.16MB Pulling [34m9.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣀⠀⠀⠀⠀⠀⠀⠀[0m] 12.92MB/49.16MB Pulling [34m10.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣀⠀⠀⠀⠀⠀⠀⠀[0m]  13.4MB/49.16MB Pulling [34m10.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀[0m] 13.94MB/49.16MB Pulling [34m10.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀[0m] 13.94MB/49.16MB Pulling [34m10.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀[0m] 14.52MB/49.16MB Pulling [34m10.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀[0m]  14.6MB/50.47MB Pulling [34m10.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀[0m] 15.23MB/50.47MB Pulling [34m10.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣄⡀⠀⠀⠀⠀⠀⠀[0m] 15.34MB/50.47MB Pulling [34m10.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣄⡀⠀⠀⠀⠀⠀⠀[0m] 15.82MB/50.47MB Pulling [34m10.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣄⣀⠀⠀⠀⠀⠀⠀[0m] 16.03MB/50.47MB Pulling [34m10.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣤⣀⠀⠀⠀⠀⠀⠀[0m] 16.19MB/50.47MB Pulling [34m11.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣤⣄⠀⠀⠀⠀⠀⠀[0m] 16.78MB/50.47MB Pulling [34m11.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣤⣤⠀⠀⠀⠀⠀⠀[0m] 16.96MB/50.47MB Pulling [34m11.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣤⣤⠀⠀⠀⠀⠀⠀[0m] 17.54MB/50.47MB Pulling [34m11.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣤⣦⠀⠀⠀⠀⠀⠀[0m] 17.78MB/50.47MB Pulling [34m11.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣤⣦⠀⠀⠀⠀⠀⠀[0m] 18.29MB/50.47MB Pulling [34m11.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣦⣦⠀⠀⠀⠀⠀⠀[0m] 18.45MB/50.47MB Pulling [34m11.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣦⣶⠀⠀⠀⠀⠀⠀[0m] 19.08MB/50.47MB Pulling [34m11.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣦⣷⠀⠀⠀⠀⠀⠀[0m] 19.26MB/50.47MB Pulling [34m11.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 4/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣦⣷⠀⠀⠀⠀⠀⠀[0m] 19.33MB/50.47MB Pulling [34m11.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣦⣿⠀⠀⠀⠀⠀⠀[0m] 18.67MB/49.16MB Pulling [34m12.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣦⣿⠀⠀⠀⠀⠀⠀[0m] 19.24MB/49.16MB Pulling [34m12.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣀⣿⣿⣿⣿⣶⣿⠀⠀⠀⠀⠀⠀[0m] 19.31MB/49.16MB Pulling [34m12.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣶⣿⠀⠀⠀⠀⠀⠀[0m] 19.85MB/49.16MB Pulling [34m12.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣶⣿⠀⠀⠀⠀⠀⠀[0m] 19.91MB/49.16MB Pulling [34m12.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣶⣿⠀⠀⠀⠀⠀⠀[0m] 20.45MB/49.16MB Pulling [34m12.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣶⣿⠀⠀⠀⠀⠀⠀[0m] 20.45MB/49.16MB Pulling [34m12.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣶⣿⠀⠀⠀⠀⠀⠀[0m] 20.99MB/49.16MB Pulling [34m12.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣶⣿⠀⠀⠀⠀⠀⠀[0m] 21.06MB/49.16MB Pulling [34m12.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣷⣿⠀⠀⠀⠀⠀⠀[0m] 21.56MB/49.16MB Pulling [34m12.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣷⣿⠀⠀⠀⠀⠀⠀[0m] 21.56MB/49.16MB Pulling [34m13.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣷⣿⠀⠀⠀⠀⠀⠀[0m] 22.03MB/49.16MB Pulling [34m13.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣷⣿⠀⠀⠀⠀⠀⠀[0m] 22.03MB/49.16MB Pulling [34m13.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣷⣿⠀⠀⠀⠀⠀⠀[0m] 22.57MB/49.16MB Pulling [34m13.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣷⣿⠀⠀⠀⠀⠀⠀[0m] 22.64MB/49.16MB Pulling [34m13.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣷⣿⠀⠀⠀⠀⠀⠀[0m] 23.11MB/49.16MB Pulling [34m13.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣷⣿⠀⠀⠀⠀⠀⠀[0m] 23.21MB/49.16MB Pulling [34m13.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 5/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣷⣿⠀⠀⠀⠀⠀⠀[0m] 23.75MB/49.16MB Pulling [34m13.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀[0m]  20.9MB/46.25MB Pulling [34m13.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀[0m] 21.37MB/46.25MB Pulling [34m13.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀[0m] 21.85MB/46.25MB Pulling [34m14.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀[0m] 21.85MB/46.25MB Pulling [34m14.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀[0m] 22.32MB/46.25MB Pulling [34m14.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 6/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀[0m]  22.8MB/46.25MB Pulling [34m14.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣄⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m]  22.8MB/46.25MB Pulling [34m14.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m] 23.27MB/46.25MB Pulling [34m14.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m] 23.27MB/46.25MB Pulling [34m14.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m] 23.75MB/46.25MB Pulling [34m14.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m] 24.21MB/46.25MB Pulling [34m14.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m] 24.21MB/46.25MB Pulling [34m14.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m] 24.68MB/46.25MB Pulling [34m15.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m] 25.15MB/46.25MB Pulling [34m15.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m] 25.15MB/46.25MB Pulling [34m15.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m] 25.63MB/46.25MB Pulling [34m15.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m]  26.1MB/46.25MB Pulling [34m15.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m]  26.1MB/46.25MB Pulling [34m15.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m] 26.58MB/46.25MB Pulling [34m15.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m] 27.05MB/46.25MB Pulling [34m15.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m] 27.05MB/46.25MB Pulling [34m15.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m] 27.53MB/46.25MB Pulling [34m15.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m]    28MB/46.25MB Pulling [34m16.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m]    28MB/46.25MB Pulling [34m16.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m] 28.48MB/46.25MB Pulling [34m16.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m] 28.95MB/46.25MB Pulling [34m16.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 7/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣤⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀[0m] 28.95MB/46.25MB Pulling [34m16.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 8/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀⠀⠀[0m] 29.43MB/46.25MB Pulling [34m16.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 8/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀⠀⠀[0m] 29.43MB/46.25MB Pulling [34m16.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 8/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣀⣿⠀⠀⠀[0m]  29.9MB/46.26MB Pulling [34m16.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 30.37MB/46.25MB Pulling [34m16.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 30.37MB/46.25MB Pulling [34m16.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 30.84MB/46.25MB Pulling [34m17.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 30.84MB/46.25MB Pulling [34m17.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 31.32MB/46.25MB Pulling [34m17.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 31.79MB/46.25MB Pulling [34m17.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 32.27MB/46.25MB Pulling [34m17.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 32.27MB/46.25MB Pulling [34m17.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 32.27MB/46.25MB Pulling [34m17.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 32.74MB/46.25MB Pulling [34m17.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 33.22MB/46.25MB Pulling [34m17.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 33.22MB/46.25MB Pulling [34m17.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 33.76MB/165.7MB Pulling [34m18.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 33.76MB/165.7MB Pulling [34m18.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 33.76MB/165.7MB Pulling [34m18.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 34.23MB/165.7MB Pulling [34m18.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 34.77MB/165.7MB Pulling [34m18.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 34.77MB/165.7MB Pulling [34m18.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 35.24MB/165.7MB Pulling [34m18.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 35.24MB/165.7MB Pulling [34m18.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 36.25MB/165.7MB Pulling [34m18.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 36.25MB/165.7MB Pulling [34m18.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 36.25MB/165.7MB Pulling [34m19.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 37.27MB/165.7MB Pulling [34m19.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 37.27MB/165.7MB Pulling [34m19.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 37.27MB/165.7MB Pulling [34m19.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 37.75MB/165.7MB Pulling [34m19.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 38.29MB/165.7MB Pulling [34m19.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 38.29MB/165.7MB Pulling [34m19.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 38.76MB/165.7MB Pulling [34m19.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 38.76MB/165.7MB Pulling [34m19.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 39.78MB/165.7MB Pulling [34m19.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 39.78MB/165.7MB Pulling [34m20.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 39.78MB/165.7MB Pulling [34m20.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 40.24MB/165.7MB Pulling [34m20.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 40.78MB/165.7MB Pulling [34m20.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 41.26MB/165.7MB Pulling [34m20.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 41.26MB/165.7MB Pulling [34m20.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 41.26MB/165.7MB Pulling [34m20.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 42.27MB/165.7MB Pulling [34m20.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 42.27MB/165.7MB Pulling [34m20.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 42.27MB/165.7MB Pulling [34m20.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 9/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀[0m] 42.75MB/165.7MB Pulling [34m21.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 42.75MB/165.7MB Pulling [34m21.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 43.76MB/165.7MB Pulling [34m21.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 43.76MB/165.7MB Pulling [34m21.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 43.76MB/165.7MB Pulling [34m21.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 44.78MB/165.7MB Pulling [34m21.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 44.78MB/165.7MB Pulling [34m21.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 44.78MB/165.7MB Pulling [34m21.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 45.79MB/165.7MB Pulling [34m21.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 45.79MB/165.7MB Pulling [34m21.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 45.79MB/165.7MB Pulling [34m22.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 46.27MB/165.7MB Pulling [34m22.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 46.27MB/165.7MB Pulling [34m22.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 46.81MB/165.7MB Pulling [34m22.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 47.28MB/165.7MB Pulling [34m22.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 47.28MB/165.7MB Pulling [34m22.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 47.83MB/165.7MB Pulling [34m22.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m]  48.3MB/165.7MB Pulling [34m22.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m]  48.3MB/165.7MB Pulling [34m22.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 48.84MB/165.7MB Pulling [34m22.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 48.84MB/165.7MB Pulling [34m23.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 49.32MB/165.7MB Pulling [34m23.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 49.86MB/165.7MB Pulling [34m23.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 49.86MB/165.7MB Pulling [34m23.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 50.33MB/165.7MB Pulling [34m23.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 50.86MB/165.7MB Pulling [34m23.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 50.86MB/165.7MB Pulling [34m23.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 51.34MB/165.7MB Pulling [34m23.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 51.34MB/165.7MB Pulling [34m23.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 51.88MB/165.7MB Pulling [34m23.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 52.36MB/165.7MB Pulling [34m24.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 52.36MB/165.7MB Pulling [34m24.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m]  52.9MB/165.7MB Pulling [34m24.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m]  52.9MB/165.7MB Pulling [34m24.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 53.37MB/165.7MB Pulling [34m24.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 53.91MB/165.7MB Pulling [34m24.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⠀[0m] 54.38MB/165.7MB Pulling [34m24.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⡀[0m] 54.38MB/165.7MB Pulling [34m24.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⡀[0m] 54.38MB/165.7MB Pulling [34m24.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⡀[0m] 54.92MB/165.7MB Pulling [34m24.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⡀[0m]  55.4MB/165.7MB Pulling [34m25.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⡀[0m]  55.4MB/165.7MB Pulling [34m25.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⡀[0m] 56.42MB/165.7MB Pulling [34m25.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⡀[0m] 56.42MB/165.7MB Pulling [34m25.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 10/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⡀[0m] 56.42MB/165.7MB Pulling [34m25.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 11/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 57.43MB/165.7MB Pulling [34m25.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 11/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 57.43MB/165.7MB Pulling [34m25.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 11/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 57.43MB/165.7MB Pulling [34m25.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 11/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 57.43MB/165.7MB Pulling [34m25.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 11/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 58.45MB/165.7MB Pulling [34m25.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 12.41MB/119.4MB Pulling [34m26.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 12.41MB/119.4MB Pulling [34m26.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 12.95MB/119.4MB Pulling [34m26.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 12.95MB/119.4MB Pulling [34m26.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 12.95MB/119.4MB Pulling [34m26.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 12.95MB/119.4MB Pulling [34m26.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 13.49MB/119.4MB Pulling [34m26.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 13.49MB/119.4MB Pulling [34m26.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 13.49MB/119.4MB Pulling [34m26.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 13.49MB/119.4MB Pulling [34m26.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 14.03MB/119.4MB Pulling [34m27.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 14.03MB/119.4MB Pulling [34m27.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 14.03MB/119.4MB Pulling [34m27.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 14.57MB/119.4MB Pulling [34m27.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 14.57MB/119.4MB Pulling [34m27.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 14.57MB/119.4MB Pulling [34m27.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 15.11MB/119.4MB Pulling [34m27.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 15.11MB/119.4MB Pulling [34m27.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿[0m] 15.11MB/119.4MB Pulling [34m27.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 15.65MB/119.4MB Pulling [34m27.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 15.65MB/119.4MB Pulling [34m28.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 15.65MB/119.4MB Pulling [34m28.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 16.19MB/119.4MB Pulling [34m28.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 16.19MB/119.4MB Pulling [34m28.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 16.73MB/119.4MB Pulling [34m28.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 16.73MB/119.4MB Pulling [34m28.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 17.28MB/119.4MB Pulling [34m28.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 17.28MB/119.4MB Pulling [34m28.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 17.28MB/119.4MB Pulling [34m28.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 17.82MB/119.4MB Pulling [34m28.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 17.82MB/119.4MB Pulling [34m29.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 17.82MB/119.4MB Pulling [34m29.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 18.36MB/119.4MB Pulling [34m29.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 18.36MB/119.4MB Pulling [34m29.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m]  18.9MB/119.4MB Pulling [34m29.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m]  18.9MB/119.4MB Pulling [34m29.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m]  18.9MB/119.4MB Pulling [34m29.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 19.44MB/119.4MB Pulling [34m29.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 19.44MB/119.4MB Pulling [34m29.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 19.98MB/119.4MB Pulling [34m29.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 19.98MB/119.4MB Pulling [34m30.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 20.52MB/119.4MB Pulling [34m30.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 20.52MB/119.4MB Pulling [34m30.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 21.06MB/119.4MB Pulling [34m30.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 21.06MB/119.4MB Pulling [34m30.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m]  21.6MB/119.4MB Pulling [34m30.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 22.14MB/119.4MB Pulling [34m30.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 22.14MB/119.4MB Pulling [34m30.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 22.14MB/119.4MB Pulling [34m30.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 22.68MB/119.4MB Pulling [34m30.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 23.22MB/119.4MB Pulling [34m31.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 23.22MB/119.4MB Pulling [34m31.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 23.22MB/119.4MB Pulling [34m31.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 23.76MB/119.4MB Pulling [34m31.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m]  24.3MB/119.4MB Pulling [34m31.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m]  24.3MB/119.4MB Pulling [34m31.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 24.84MB/119.4MB Pulling [34m31.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 24.84MB/119.4MB Pulling [34m31.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 24.84MB/119.4MB Pulling [34m31.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 25.39MB/119.4MB Pulling [34m31.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 25.39MB/119.4MB Pulling [34m32.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 25.93MB/119.4MB Pulling [34m32.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 25.93MB/119.4MB Pulling [34m32.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 26.47MB/119.4MB Pulling [34m32.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 26.47MB/119.4MB Pulling [34m32.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 27.01MB/119.4MB Pulling [34m32.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 27.01MB/119.4MB Pulling [34m32.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 27.55MB/119.4MB Pulling [34m32.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 27.55MB/119.4MB Pulling [34m32.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 28.09MB/119.4MB Pulling [34m32.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 28.09MB/119.4MB Pulling [34m33.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 28.63MB/119.4MB Pulling [34m33.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 28.63MB/119.4MB Pulling [34m33.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 29.17MB/119.4MB Pulling [34m33.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 29.17MB/119.4MB Pulling [34m33.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 29.17MB/119.4MB Pulling [34m33.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 29.71MB/119.4MB Pulling [34m33.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿[0m] 29.71MB/119.4MB Pulling [34m33.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 30.25MB/119.4MB Pulling [34m33.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 30.25MB/119.4MB Pulling [34m33.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 30.79MB/119.4MB Pulling [34m34.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 31.33MB/119.4MB Pulling [34m34.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 31.33MB/119.4MB Pulling [34m34.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 31.33MB/119.4MB Pulling [34m34.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 31.87MB/119.4MB Pulling [34m34.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 31.87MB/119.4MB Pulling [34m34.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 32.41MB/119.4MB Pulling [34m34.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 32.41MB/119.4MB Pulling [34m34.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 32.95MB/119.4MB Pulling [34m34.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 32.95MB/119.4MB Pulling [34m34.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m]  33.5MB/119.4MB Pulling [34m35.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m]  33.5MB/119.4MB Pulling [34m35.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 34.03MB/119.4MB Pulling [34m35.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 34.03MB/119.4MB Pulling [34m35.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 34.57MB/119.4MB Pulling [34m35.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 34.57MB/119.4MB Pulling [34m35.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m]  35.1MB/119.4MB Pulling [34m35.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m]  35.1MB/119.4MB Pulling [34m35.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 35.64MB/119.4MB Pulling [34m35.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 35.64MB/119.4MB Pulling [34m35.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 36.18MB/119.4MB Pulling [34m36.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 36.18MB/119.4MB Pulling [34m36.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 36.71MB/119.4MB Pulling [34m36.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 36.71MB/119.4MB Pulling [34m36.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 37.25MB/119.4MB Pulling [34m36.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 37.25MB/119.4MB Pulling [34m36.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 37.79MB/119.4MB Pulling [34m36.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 37.79MB/119.4MB Pulling [34m36.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 38.33MB/119.4MB Pulling [34m36.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 38.33MB/119.4MB Pulling [34m36.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 38.87MB/119.4MB Pulling [34m37.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 38.87MB/119.4MB Pulling [34m37.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 39.41MB/119.4MB Pulling [34m37.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 39.41MB/119.4MB Pulling [34m37.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 39.41MB/119.4MB Pulling [34m37.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 40.49MB/119.4MB Pulling [34m37.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 40.49MB/119.4MB Pulling [34m37.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 41.03MB/119.4MB Pulling [34m37.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 41.03MB/119.4MB Pulling [34m37.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 41.56MB/119.4MB Pulling [34m37.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m]  42.1MB/119.4MB Pulling [34m38.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m]  42.1MB/119.4MB Pulling [34m38.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 42.63MB/119.4MB Pulling [34m38.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 42.63MB/119.4MB Pulling [34m38.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 43.17MB/119.4MB Pulling [34m38.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 43.71MB/119.4MB Pulling [34m38.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 43.71MB/119.4MB Pulling [34m38.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 43.71MB/119.4MB Pulling [34m38.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 44.26MB/119.4MB Pulling [34m38.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m]  44.8MB/119.4MB Pulling [34m38.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m]  44.8MB/119.4MB Pulling [34m39.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 45.32MB/119.4MB Pulling [34m39.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣿⣿[0m] 45.32MB/119.4MB Pulling [34m39.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 45.87MB/119.4MB Pulling [34m39.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 45.87MB/119.4MB Pulling [34m39.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 46.41MB/119.4MB Pulling [34m39.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 46.41MB/119.4MB Pulling [34m39.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 46.95MB/119.4MB Pulling [34m39.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 47.49MB/119.4MB Pulling [34m39.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 47.49MB/119.4MB Pulling [34m39.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 48.03MB/119.4MB Pulling [34m40.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 48.03MB/119.4MB Pulling [34m40.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 48.57MB/119.4MB Pulling [34m40.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 48.57MB/119.4MB Pulling [34m40.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 48.57MB/119.4MB Pulling [34m40.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 48.57MB/119.4MB Pulling [34m40.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 49.11MB/119.4MB Pulling [34m40.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 49.11MB/119.4MB Pulling [34m40.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 49.65MB/119.4MB Pulling [34m40.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 49.65MB/119.4MB Pulling [34m40.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 50.19MB/119.4MB Pulling [34m41.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 50.19MB/119.4MB Pulling [34m41.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 50.73MB/119.4MB Pulling [34m41.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 51.27MB/119.4MB Pulling [34m41.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 51.27MB/119.4MB Pulling [34m41.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 51.81MB/119.4MB Pulling [34m41.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 51.81MB/119.4MB Pulling [34m41.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 52.34MB/119.4MB Pulling [34m41.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 52.88MB/119.4MB Pulling [34m41.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 52.88MB/119.4MB Pulling [34m41.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 53.42MB/119.4MB Pulling [34m42.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 53.42MB/119.4MB Pulling [34m42.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 53.95MB/119.4MB Pulling [34m42.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 53.95MB/119.4MB Pulling [34m42.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 54.49MB/119.4MB Pulling [34m42.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 55.03MB/119.4MB Pulling [34m42.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 55.03MB/119.4MB Pulling [34m42.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 55.57MB/119.4MB Pulling [34m42.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 55.57MB/119.4MB Pulling [34m42.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 56.11MB/119.4MB Pulling [34m42.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 56.11MB/119.4MB Pulling [34m43.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 56.65MB/119.4MB Pulling [34m43.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 57.19MB/119.4MB Pulling [34m43.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 57.19MB/119.4MB Pulling [34m43.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 57.73MB/119.4MB Pulling [34m43.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 57.73MB/119.4MB Pulling [34m43.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 58.27MB/119.4MB Pulling [34m43.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m]  58.8MB/119.4MB Pulling [34m43.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m]  58.8MB/119.4MB Pulling [34m43.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣿⣿[0m] 59.35MB/119.4MB Pulling [34m43.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 59.88MB/119.4MB Pulling [34m44.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 59.88MB/119.4MB Pulling [34m44.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 60.42MB/119.4MB Pulling [34m44.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 60.96MB/119.4MB Pulling [34m44.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 60.96MB/119.4MB Pulling [34m44.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m]  61.5MB/119.4MB Pulling [34m44.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 62.04MB/119.4MB Pulling [34m44.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 62.04MB/119.4MB Pulling [34m44.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 62.58MB/119.4MB Pulling [34m44.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 62.58MB/119.4MB Pulling [34m44.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 63.12MB/119.4MB Pulling [34m45.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 63.12MB/119.4MB Pulling [34m45.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 63.66MB/119.4MB Pulling [34m45.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m]  64.2MB/119.4MB Pulling [34m45.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m]  64.2MB/119.4MB Pulling [34m45.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 64.74MB/119.4MB Pulling [34m45.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 64.74MB/119.4MB Pulling [34m45.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 65.28MB/119.4MB Pulling [34m45.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 65.28MB/119.4MB Pulling [34m45.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 65.82MB/119.4MB Pulling [34m45.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 65.82MB/119.4MB Pulling [34m46.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 66.36MB/119.4MB Pulling [34m46.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 66.89MB/119.4MB Pulling [34m46.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 66.89MB/119.4MB Pulling [34m46.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 67.43MB/119.4MB Pulling [34m46.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 67.43MB/119.4MB Pulling [34m46.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 67.98MB/119.4MB Pulling [34m46.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 67.98MB/119.4MB Pulling [34m46.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 68.52MB/119.4MB Pulling [34m46.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 68.52MB/119.4MB Pulling [34m46.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 69.05MB/119.4MB Pulling [34m47.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 69.05MB/119.4MB Pulling [34m47.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 69.59MB/119.4MB Pulling [34m47.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 69.59MB/119.4MB Pulling [34m47.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 70.13MB/119.4MB Pulling [34m47.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 70.13MB/119.4MB Pulling [34m47.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 70.67MB/119.4MB Pulling [34m47.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 71.21MB/119.4MB Pulling [34m47.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 71.21MB/119.4MB Pulling [34m47.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 71.75MB/119.4MB Pulling [34m47.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 71.75MB/119.4MB Pulling [34m48.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 72.29MB/119.4MB Pulling [34m48.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 72.29MB/119.4MB Pulling [34m48.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 72.83MB/119.4MB Pulling [34m48.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 72.83MB/119.4MB Pulling [34m48.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 73.37MB/119.4MB Pulling [34m48.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 73.37MB/119.4MB Pulling [34m48.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 73.91MB/119.4MB Pulling [34m48.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 73.91MB/119.4MB Pulling [34m48.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 74.46MB/119.4MB Pulling [34m48.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m] 74.46MB/119.4MB Pulling [34m49.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m]    75MB/119.4MB Pulling [34m49.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿[0m]    75MB/119.4MB Pulling [34m49.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 75.54MB/119.4MB Pulling [34m49.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 75.54MB/119.4MB Pulling [34m49.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 76.08MB/119.4MB Pulling [34m49.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 76.62MB/119.4MB Pulling [34m49.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 76.62MB/119.4MB Pulling [34m49.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 77.16MB/119.4MB Pulling [34m49.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 77.16MB/119.4MB Pulling [34m49.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 77.69MB/119.4MB Pulling [34m50.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 77.69MB/119.4MB Pulling [34m50.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 78.23MB/119.4MB Pulling [34m50.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 78.23MB/119.4MB Pulling [34m50.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 78.77MB/119.4MB Pulling [34m50.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 79.31MB/119.4MB Pulling [34m50.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 79.31MB/119.4MB Pulling [34m50.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 79.85MB/119.4MB Pulling [34m50.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 79.85MB/119.4MB Pulling [34m50.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 80.39MB/119.4MB Pulling [34m50.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 80.39MB/119.4MB Pulling [34m51.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 80.94MB/119.4MB Pulling [34m51.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 80.94MB/119.4MB Pulling [34m51.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 81.48MB/119.4MB Pulling [34m51.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 81.48MB/119.4MB Pulling [34m51.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 82.02MB/119.4MB Pulling [34m51.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 82.56MB/119.4MB Pulling [34m51.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 82.56MB/119.4MB Pulling [34m51.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m]  83.1MB/119.4MB Pulling [34m51.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m]  83.1MB/119.4MB Pulling [34m51.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 83.64MB/119.4MB Pulling [34m52.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 84.18MB/119.4MB Pulling [34m52.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 84.18MB/119.4MB Pulling [34m52.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 84.72MB/119.4MB Pulling [34m52.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 84.72MB/119.4MB Pulling [34m52.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 85.26MB/119.4MB Pulling [34m52.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 85.26MB/119.4MB Pulling [34m52.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m]  85.8MB/119.4MB Pulling [34m52.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m]  85.8MB/119.4MB Pulling [34m52.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 86.34MB/119.4MB Pulling [34m52.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 86.34MB/119.4MB Pulling [34m53.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 86.88MB/119.4MB Pulling [34m53.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 86.88MB/119.4MB Pulling [34m53.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 87.42MB/119.4MB Pulling [34m53.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 87.96MB/119.4MB Pulling [34m53.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 87.96MB/119.4MB Pulling [34m53.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 87.96MB/119.4MB Pulling [34m53.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 87.96MB/119.4MB Pulling [34m53.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m]  88.5MB/119.4MB Pulling [34m53.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m]  88.5MB/119.4MB Pulling [34m53.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m]  88.5MB/119.4MB Pulling [34m54.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 89.05MB/119.4MB Pulling [34m54.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣿⣿[0m] 89.05MB/119.4MB Pulling [34m54.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 89.57MB/119.4MB Pulling [34m54.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 89.57MB/119.4MB Pulling [34m54.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 90.11MB/119.4MB Pulling [34m54.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 90.11MB/119.4MB Pulling [34m54.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 90.66MB/119.4MB Pulling [34m54.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 90.66MB/119.4MB Pulling [34m54.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m]  91.2MB/119.4MB Pulling [34m54.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m]  91.2MB/119.4MB Pulling [34m55.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 91.74MB/119.4MB Pulling [34m55.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 91.74MB/119.4MB Pulling [34m55.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 92.28MB/119.4MB Pulling [34m55.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 92.28MB/119.4MB Pulling [34m55.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 92.82MB/119.4MB Pulling [34m55.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 92.82MB/119.4MB Pulling [34m55.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 93.36MB/119.4MB Pulling [34m55.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 93.36MB/119.4MB Pulling [34m55.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m]  93.9MB/119.4MB Pulling [34m55.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m]  93.9MB/119.4MB Pulling [34m56.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 94.44MB/119.4MB Pulling [34m56.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 94.44MB/119.4MB Pulling [34m56.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 94.98MB/119.4MB Pulling [34m56.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 94.98MB/119.4MB Pulling [34m56.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 95.52MB/119.4MB Pulling [34m56.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 95.52MB/119.4MB Pulling [34m56.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 96.06MB/119.4MB Pulling [34m56.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 96.06MB/119.4MB Pulling [34m56.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m]  96.6MB/119.4MB Pulling [34m56.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m]  96.6MB/119.4MB Pulling [34m57.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 97.14MB/119.4MB Pulling [34m57.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 97.68MB/119.4MB Pulling [34m57.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 97.68MB/119.4MB Pulling [34m57.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 98.22MB/119.4MB Pulling [34m57.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 98.22MB/119.4MB Pulling [34m57.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 98.76MB/119.4MB Pulling [34m57.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 98.76MB/119.4MB Pulling [34m57.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m]  99.3MB/119.4MB Pulling [34m57.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m]  99.3MB/119.4MB Pulling [34m57.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 99.84MB/119.4MB Pulling [34m58.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 99.84MB/119.4MB Pulling [34m58.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 100.4MB/119.4MB Pulling [34m58.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 100.4MB/119.4MB Pulling [34m58.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 100.9MB/119.4MB Pulling [34m58.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 101.5MB/119.4MB Pulling [34m58.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 101.5MB/119.4MB Pulling [34m58.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m]   102MB/119.4MB Pulling [34m58.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m]   102MB/119.4MB Pulling [34m58.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 102.5MB/119.4MB Pulling [34m58.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 102.5MB/119.4MB Pulling [34m59.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 103.1MB/119.4MB Pulling [34m59.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 103.1MB/119.4MB Pulling [34m59.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 103.6MB/119.4MB Pulling [34m59.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 103.6MB/119.4MB Pulling [34m59.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 104.2MB/119.4MB Pulling [34m59.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 104.7MB/119.4MB Pulling [34m59.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿[0m] 104.7MB/119.4MB Pulling [34m59.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 105.2MB/119.4MB Pulling [34m59.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 105.2MB/119.4MB Pulling [34m59.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 105.8MB/119.4MB Pulling [34m60.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 105.8MB/119.4MB Pulling [34m60.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 106.3MB/119.4MB Pulling [34m60.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 106.9MB/119.4MB Pulling [34m60.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 106.9MB/119.4MB Pulling [34m60.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 107.4MB/119.4MB Pulling [34m60.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 107.4MB/119.4MB Pulling [34m60.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 107.9MB/119.4MB Pulling [34m60.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 107.9MB/119.4MB Pulling [34m60.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 108.5MB/119.4MB Pulling [34m60.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 108.5MB/119.4MB Pulling [34m61.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m]   109MB/119.4MB Pulling [34m61.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 109.6MB/119.4MB Pulling [34m61.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 109.6MB/119.4MB Pulling [34m61.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 109.6MB/119.4MB Pulling [34m61.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 110.1MB/119.4MB Pulling [34m61.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 110.7MB/119.4MB Pulling [34m61.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 110.7MB/119.4MB Pulling [34m61.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 111.2MB/119.4MB Pulling [34m61.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 111.2MB/119.4MB Pulling [34m61.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 111.7MB/119.4MB Pulling [34m62.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 111.7MB/119.4MB Pulling [34m62.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 112.3MB/119.4MB Pulling [34m62.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 112.8MB/119.4MB Pulling [34m62.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 112.8MB/119.4MB Pulling [34m62.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 113.4MB/119.4MB Pulling [34m62.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 113.4MB/119.4MB Pulling [34m62.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 113.9MB/119.4MB Pulling [34m62.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 113.9MB/119.4MB Pulling [34m62.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 114.4MB/119.4MB Pulling [34m62.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 114.4MB/119.4MB Pulling [34m63.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m]   115MB/119.4MB Pulling [34m63.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 115.5MB/119.4MB Pulling [34m63.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 115.5MB/119.4MB Pulling [34m63.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 116.1MB/119.4MB Pulling [34m63.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 116.1MB/119.4MB Pulling [34m63.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 116.6MB/119.4MB Pulling [34m63.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 116.6MB/119.4MB Pulling [34m63.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 116.6MB/119.4MB Pulling [34m63.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 116.6MB/119.4MB Pulling [34m63.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 117.1MB/119.4MB Pulling [34m64.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 117.1MB/119.4MB Pulling [34m64.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 117.7MB/119.4MB Pulling [34m64.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 117.7MB/119.4MB Pulling [34m64.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 118.2MB/119.4MB Pulling [34m64.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 118.2MB/119.4MB Pulling [34m64.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 118.7MB/119.4MB Pulling [34m64.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 118.7MB/119.4MB Pulling [34m64.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 12/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿[0m] 119.3MB/119.4MB Pulling [34m64.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m64.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m65.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m65.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m65.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m65.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m65.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m65.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m65.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m65.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m65.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m65.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m66.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m66.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m66.2s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m66.3s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m66.4s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m66.5s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m66.6s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m66.7s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m66.8s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m66.9s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m67.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 13/1
+ [33m-[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulling [34m67.1s [0m
+[?25h[1A[1A[0G[?25l[+] Running 14/1
+ [32m✔[0m item-db [33m13 layers[0m [[32m⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿[0m]      0B/0B      Pulled [32m[0m[34m67.1s [0m
+[?25h[1A[1B[0G[?25l[+] Running 0/0
+ [33m-[0m Network a433-microservices_default  Creating[34m0.0s [0m
+[?25h[1A[1A[0G[?25l[+] Running 0/1
+ [33m-[0m Network a433-microservices_default      Created[34m0.1s [0m
+ [33m-[0m Container a433-microservices-item-db-1  Creating[34m0.1s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 0/2
+ [33m-[0m Network a433-microservices_default      Created[34m0.2s [0m
+ [33m-[0m Container a433-microservices-item-db-1  Creating[34m0.2s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 0/2
+ [33m-[0m Network a433-microservices_default      Created[34m0.3s [0m
+ [33m-[0m Container a433-microservices-item-db-1  Creating[34m0.3s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 0/2
+ [33m-[0m Network a433-microservices_default      Created[34m0.4s [0m
+ [33m-[0m Container a433-microservices-item-db-1  Creating[34m0.4s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 0/2
+ [33m-[0m Network a433-microservices_default      Created[34m0.5s [0m
+ [33m-[0m Container a433-microservices-item-db-1  Creating[34m0.5s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 0/2
+ [33m-[0m Network a433-microservices_default      Created[34m0.6s [0m
+ [33m-[0m Container a433-microservices-item-db-1  Creating[34m0.6s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 0/2
+ [33m-[0m Network a433-microservices_default      Created[34m0.7s [0m
+ [33m-[0m Container a433-microservices-item-db-1  Creating[34m0.7s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 0/2
+ [33m-[0m Network a433-microservices_default      Created[34m0.8s [0m
+ [33m-[0m Container a433-microservices-item-db-1  Creating[34m0.8s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 0/2
+ [33m-[0m Network a433-microservices_default      Created[34m0.9s [0m
+ [33m-[0m Container a433-microservices-item-db-1  Creating[34m0.9s [0m
+[?25h[1A[1A[1A[0G[?25l[+] Running 0/2
+ [33m-[0m Network a433-microservices_default       Created[34m1.1s [0m
+ [33m-[0m Container a433-microservices-item-db-1   Created[34m1.0s [0m
+ [33m-[0m Container a433-microservices-item-app-1  Creating[34m0.1s [0m
+[?25h[1A[1A[1A[1A[0G[?25l[+] Running 0/3
+ [33m-[0m Network a433-microservices_default       Created[34m1.1s [0m
+ [33m-[0m Container a433-microservices-item-db-1   Created[34m1.1s [0m
+ [33m-[0m Container a433-microservices-item-app-1  Creating[34m0.2s [0m
+[?25h[1A[1A[1A[1A[0G[?25l[+] Running 0/3
+ [33m-[0m Network a433-microservices_default       Created[34m1.2s [0m
+ [33m-[0m Container a433-microservices-item-db-1   Created[34m1.2s [0m
+ [33m-[0m Container a433-microservices-item-app-1  Created[34m0.2s [0m
+[?25h[1A[1A[1A[1A[0G[?25l[+] Running 0/3
+ [33m-[0m Network a433-microservices_default       Created[34m1.3s [0m
+ [33m-[0m Container a433-microservices-item-db-1   Starting[34m1.3s [0m
+ [33m-[0m Container a433-microservices-item-app-1  Created[34m0.3s [0m
+[?25h[1A[1A[1A[1A[0G[?25l[+] Running 0/3
+ [33m-[0m Network a433-microservices_default       Created[34m1.4s [0m
+ [33m-[0m Container a433-microservices-item-db-1   Starting[34m1.4s [0m
+ [33m-[0m Container a433-microservices-item-app-1  Created[34m0.4s [0m
+[?25h[1A[1A[1A[1A[0G[?25l[+] Running 0/3
+ [33m-[0m Network a433-microservices_default       Created[34m1.5s [0m
+ [33m-[0m Container a433-microservices-item-db-1   Starting[34m1.5s [0m
+ [33m-[0m Container a433-microservices-item-app-1  Created[34m0.5s [0m
+[?25h[1A[1A[1A[1A[0G[?25l[+] Running 1/3
+ [33m-[0m Network a433-microservices_default       Created[34m1.6s [0m
+ [32m✔[0m Container a433-microservices-item-db-1   [32mStarted[0m[34m1.5s [0m
+ [33m-[0m Container a433-microservices-item-app-1  Starting[34m0.6s [0m
+[?25h[1A[1A[1A[1A[0G[?25l[+] Running 1/3
+ [33m-[0m Network a433-microservices_default       Created[34m1.7s [0m
+ [32m✔[0m Container a433-microservices-item-db-1   [32mStarted[0m[34m1.5s [0m
+ [33m-[0m Container a433-microservices-item-app-1  Starting[34m0.7s [0m
+[?25h[1A[1A[1A[1A[0G[?25l[+] Running 1/3
+ [33m-[0m Network a433-microservices_default       Created[34m1.8s [0m
+ [32m✔[0m Container a433-microservices-item-db-1   [32mStarted[0m[34m1.5s [0m
+ [33m-[0m Container a433-microservices-item-app-1  Starting[34m0.8s [0m
+[?25h[1A[1A[1A[1A[0G[?25l[+] Running 1/3
+ [33m-[0m Network a433-microservices_default       Created[34m1.9s [0m
+ [32m✔[0m Container a433-microservices-item-db-1   [32mStarted[0m[34m1.5s [0m
+ [33m-[0m Container a433-microservices-item-app-1  Starting[34m0.9s [0m
+[?25h[1A[1A[1A[1A[0G[?25l[+] Running 2/3
+ [33m-[0m Network a433-microservices_default       Created[34m1.9s [0m
+ [32m✔[0m Container a433-microservices-item-db-1   [32mStarted[0m[34m1.5s [0m
+ [32m✔[0m Container a433-microservices-item-app-1  [32mStarted[0m[34m0.9s [0m
+[?25h
