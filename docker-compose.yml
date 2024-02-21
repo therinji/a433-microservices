@@ -1,0 +1,31 @@
+# schema version dari Docker Compose yang ditulis
+version: "3.7"
+
+# semua service yang dipakai (2 service)
+services:
+  # service item-app
+  item-app:
+    # menggunakan image item-app dari GitHub Packages
+    image: ghcr.io/therinji/item-app:v1
+    # melakukan port mapping agar dapat diakses dari port 80 di host
+    ports:
+      - 80:8080
+    # pastikan item-app hanya berjalan setelah item-db diluncurkan
+    depends_on:
+      - item-db
+    # menerapkan restart policy
+    restart: always
+
+  # service item-db
+  item-db:
+    # menggunakan image mongo:3 dari Docker Hub
+    image: mongo:3
+    # memakai volume bernama app-db dengan target /data/db di container
+    volumes:
+      - app-db:/data/db
+    # menerapkan restart policy
+    restart: always
+
+# menyiapkan volume yg dipakai yaitu app-db
+volumes:
+  app-db:
