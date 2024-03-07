@@ -5,13 +5,13 @@ version: 2.1
 jobs:
   lint-dockerfile:
     docker:
-      - image: hadolint/hadolint:latest
+      - image: cimg/base:stable
     steps:
       - checkout
       # Replace this with a real test runner invocation
       - run:
           name: Install hadolint
-          command: hadolint Dockerfile
+          command: docker run --rm --interactive hadolint/hadolint < Dockerfile
   test-app:
     docker:
       - image: cimg/base:stable
