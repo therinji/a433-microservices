@@ -13,10 +13,10 @@ jobs:
       - setup_remote_docker
       - run:
           name: Run hadolint
-          command: docker run --rm --interactive hadolint/hadolint
+          command: docker run --rm --interactive hadolint/hadolint < Dockerfile
       - run:
           name: Run Dockerfile
-          command: hadolint Dockerfile
+          command: echo "Test command"
 
 workflows:
   version: 2
