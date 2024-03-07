@@ -14,6 +14,9 @@ jobs:
       - run:
           name: Run hadolint
           command: docker run --rm --interactive hadolint/hadolint
+      - run:
+          name: Run Dockerfile
+          command: hadolint Dockerfile
 
 workflows:
   version: 2
