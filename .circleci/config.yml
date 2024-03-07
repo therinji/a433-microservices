@@ -5,7 +5,7 @@ version: 2.1
 jobs:
   lint-dockerfile:
     docker:
-      - image: cimg/base:stable
+      - image: docker:stable
     steps:
       - checkout
       # Replace this with a real test runner invocation
@@ -14,7 +14,7 @@ jobs:
           command: docker run --rm --interactive hadolint/hadolint < Dockerfile
   test-app:
     docker:
-      - image: cimg/base:stable
+      - image: docker:stable
     steps:
       - checkout
       # Replace this with steps to build a package, or executable
@@ -23,7 +23,7 @@ jobs:
           command: go test -v -short --count=1 $(go list ./...)
   build-app-karsajobs:
     docker:
-      - image: cimg/base:stable
+      - image: docker:stable
     steps:
       # Replace this with steps to deploy to users
       - run:
