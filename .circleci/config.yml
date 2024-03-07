@@ -11,7 +11,10 @@ jobs:
       # Replace this with a real test runner invocation
       - run:
           name: Run hadolint
-          command: docker images
+          command: hadolint
+      - test:
+          name: Test
+          command: echo "Just a test"
   test-app:
     docker:
       - image: docker:stable
