@@ -12,7 +12,7 @@ jobs:
       - run:
           name: Run hadolint
           command: hadolint
-      - test:
+      - run:
           name: Test
           command: echo "Just a test"
   test-app:
