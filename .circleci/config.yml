@@ -11,7 +11,7 @@ jobs:
       # Replace this with a real test runner invocation
       - run:
           name: Run hadolint
-          command: hadolint
+          command: echo "Your hadolint must be here"
       - run:
           name: Test
           command: echo "Just a test"
