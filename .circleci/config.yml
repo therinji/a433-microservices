@@ -30,7 +30,7 @@ jobs:
           name: Build and push
           command: "./build_push_image_karsajobs.sh"
 workflows:
-  example:
+  lint-test-build-karsajobs:
     jobs:
       - lint-dockerfile
       - test-app:
