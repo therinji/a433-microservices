@@ -19,7 +19,7 @@ jobs:
           command: echo "Test command"
       - run:
           name: next test
-          command:: go test -v -short --count=1 $(go list ./...)
+          command: go test -v -short --count=1 $(go list ./...)
 
 workflows:
   version: 2
