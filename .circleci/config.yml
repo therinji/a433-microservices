@@ -3,10 +3,10 @@ orbs:
   docker: circleci/docker@2.5.0
 jobs:
   lint-dockerfile:
-    docker/hadolint:
-      dockerfiles: Dockerfile
-      ignore-rules: "DL4005,DL3008"
-      trusted-registries: "docker.io,my-company.com:5000"
+    - docker/hadolint:
+        dockerfiles: Dockerfile
+        ignore-rules: "DL4005,DL3008"
+        trusted-registries: "docker.io,my-company.com:5000"
     steps:
       - checkout
       # Replace this with a real test runner invocation
