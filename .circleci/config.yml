@@ -1,16 +1,15 @@
-version: 2.1
+version: "2.1"
 orbs:
-  docker: circleci/docker@2.5.0
+  docker: circleci/docker@x.y.z
   jobs:
     lint:
       executor: docker/machine
       steps:
         - checkout
-        - docker/hadolint:
-            dockerfiles: Dockerfile
-            ignore-rules: "DL4005,DL3008"
-            trusted-registries: "docker.io,my-company.com:5000"
+        - docker/dockerlint:
+            dockerfile: path/to/and/name/of/Dockerfile
+            treat-warnings-as-errors: true
 workflows:
-  lint-test-and-build-karsajobs:
+  lint-dockerfile:
     jobs:
       - lint
