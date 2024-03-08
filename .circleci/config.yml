@@ -1,6 +1,14 @@
+version: 2.1
 orbs:
   docker: circleci/docker@2.5.0
-version: 2.1
+jobs:
+  test-app:
+  steps:
+    - checkout
+    # Replace this with a real test runner invocation
+    - run:
+        name: Run tests
+        command: go test -v -short --count=1 $(go list ./...)
 workflows:
   lint:
     jobs:
@@ -8,3 +16,4 @@ workflows:
           dockerfiles: Dockerfile
           ignore-rules: "DL4005,DL3008"
           trusted-registries: "docker.io,my-company.com:5000"
+      - test
