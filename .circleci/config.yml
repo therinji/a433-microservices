@@ -3,12 +3,12 @@ orbs:
   docker: circleci/docker@2.5.0
 jobs:
   test-app:
-  steps:
-    - checkout
-    # Replace this with a real test runner invocation
-    - run:
-        name: Run tests
-        command: go test -v -short --count=1 $(go list ./...)
+    steps:
+      - checkout
+      # Replace this with a real test runner invocation
+      - run:
+          name: Run tests
+          command: go test -v -short --count=1 $(go list ./...)
 workflows:
   lint:
     jobs:
