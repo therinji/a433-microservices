@@ -2,7 +2,7 @@ orbs:
   docker: circleci/docker@x.y.z
 version: 2.1
 workflows:
-  lint:
+  lint-test-and-build-karsajobs:
     jobs:
       - docker/hadolint:
           dockerfiles: Dockerfile
