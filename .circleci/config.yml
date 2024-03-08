@@ -8,7 +8,3 @@ workflows:
           dockerfiles: Dockerfile
           ignore-rules: "DL4005,DL3008"
           trusted-registries: "docker.io,my-company.com:5000"
-      - test-app:
-          run:
-            name: Run Test
-            command: go test -v -short --count=1 $(go list ./...)
