@@ -3,6 +3,7 @@ orbs:
   docker: circleci/docker@2.5.0
 jobs:
   test-app:
+    docker: circleci/docker@2.5.0
     steps:
       - checkout
       # Replace this with a real test runner invocation
