@@ -7,7 +7,7 @@ orbs:
       steps:
         - checkout
         - docker/dockerlint:
-            dockerfile: path/to/and/name/of/Dockerfile
+            dockerfile: Dockerfile
             treat-warnings-as-errors: true
 workflows:
   lint-dockerfile:
