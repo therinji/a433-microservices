@@ -1,28 +1,22 @@
 version: 2.1
 
-executors:
-  docker:
-    docker:
-      - image: docker:stable
+# executors: (collapsed)
 
 jobs:
-  lint:
-    executor: docker
+  build:
+    executor: docker-publisher
     steps:
       - checkout
       - setup_remote_docker
+      # Lint the Dockerfile
       - run:
-          name: Run hadolint
+          name: Lint Dockerfile
           command: docker run --rm --interactive hadolint/hadolint < Dockerfile
       - run:
-          name: Run Dockerfile
-          command: echo "Test command"
-      - run:
-          name: next test
-          command: go test -v -short --count=1 $(go list ./...)
+          name: Build Docker image
+          command: docker build --tag "${IMAGE_TAG}" .
+      # - run (collapsed)
+      # - persist_to_workspace (collapsed)
 
-workflows:
-  version: 2
-  test:
-    jobs:
-      - lint
+  # push: (collapsed)
+# workflows: (collapsed)
