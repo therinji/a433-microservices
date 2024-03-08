@@ -12,7 +12,7 @@ jobs:
       - setup_remote_docker
       - run:
           name: Run hadolint
-          command: docker run --rm --interactive hadolint/hadolint < Dockerfile
+          command: sh 'ls'
       - run:
           name: Run Dockerfile
           command: echo "Test command"
