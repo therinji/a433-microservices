@@ -2,17 +2,26 @@ version: 2.1
 executors:
   docker:
     docker:
-      - image: golang:1.15-alpine
+      - image: cimg/go:1.15.10
 
 jobs:
   lint:
     executor: docker
     steps:
       - checkout
-      - setup_remote_docker
+      - restore_cache:
+          keys:
+            - go-mod-v4-{{ checksum "go.sum" }}
       - run:
-          name: Run golang
-          command: go test -v -short --count=1 $(go list ./...)
+          name: Install Dependencies
+          command: go get ./...
+      - save_cache:
+          key: go-mod-v4-{{ checksum "go.sum" }}
+          paths:
+            - "/go/pkg/mod"
+      - run:
+          name: Run tests
+          command: go test -v
 
 workflows:
   version: 2
