@@ -36,6 +36,11 @@ jobs:
       - run:
           name: Build docker image
           command: docker build -t ghcr.io/therinji/karsajobs:latest .
+      - run:
+          name: Push image
+          command: |
+          echo $PAT | docker login ghcr.io --username therinji --password-stdin
+          docker push ghcr.io/therinji/karsajobs:latest
 workflows:
   version: 2
   lint-test-and-built-karsajobs:
