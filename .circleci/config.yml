@@ -1,12 +1,8 @@
 version: 2.1
-executors:
-  docker:
-    docker:
-      - image: cimg/go:1.15.10
-
 jobs:
   test-app:
-    executor: docker
+    docker:
+      - image: cimg/go:1.15.10
     steps:
       - checkout
       - restore_cache:
@@ -20,7 +16,7 @@ jobs:
           paths:
             - "/go/pkg/mod"
       - run:
-          name: Run tests
+          name: Run test
           command: go test -v -short --count=1 $(go list ./...)
 
 workflows:
