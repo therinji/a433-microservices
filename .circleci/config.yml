@@ -1,6 +1,14 @@
 version: 2.1
 jobs:
   lint-dockerfile:
+    docker:
+      - image: docker:stable
+    steps:
+      - checkout
+      - setup_remote_docker
+      - run:
+          name: Run hadolint
+          command: docker run --rm --interactive hadolint/hadolint < Dockerfile
   test-app:
     docker:
       - image: cimg/go:1.15.10
