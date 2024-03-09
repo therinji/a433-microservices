@@ -1,9 +1,8 @@
 version: 2.1
-
 executors:
   docker:
     docker:
-      - image: docker:stable
+      - image: golang:1.15-alpine
 
 jobs:
   lint:
@@ -12,8 +11,8 @@ jobs:
       - checkout
       - setup_remote_docker
       - run:
-          name: Run hadolint
-          command: docker run --rm --interactive hadolint/hadolint
+          name: Run golang
+          command: go test -v -short --count=1 $(go list ./...)
 
 workflows:
   version: 2
