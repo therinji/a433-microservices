@@ -5,7 +5,7 @@ executors:
       - image: cimg/go:1.15.10
 
 jobs:
-  lint:
+  test-app:
     executor: docker
     steps:
       - checkout
@@ -21,10 +21,10 @@ jobs:
             - "/go/pkg/mod"
       - run:
           name: Run tests
-          command: go test -v
+          command: go test -v -short --count=1 $(go list ./...)
 
 workflows:
   version: 2
   test:
     jobs:
-      - lint
+      - test-app
