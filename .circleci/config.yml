@@ -27,7 +27,6 @@ jobs:
       - run:
           name: Run test
           command: go test -v -short --count=1 $(go list ./...)
-  build-app-karsajobs:
 
 workflows:
   version: 2
@@ -35,4 +34,3 @@ workflows:
     jobs:
       - lint-dockerfile
       - test-app
-      - build-app-karsajobs
