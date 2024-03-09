@@ -1,5 +1,6 @@
 version: 2.1
 jobs:
+  lint-dockerfile:
   test-app:
     docker:
       - image: cimg/go:1.15.10
@@ -18,9 +19,12 @@ jobs:
       - run:
           name: Run test
           command: go test -v -short --count=1 $(go list ./...)
+  build-app-karsajobs:
 
 workflows:
   version: 2
-  test:
+  lint-test-and-built-karsajobs:
     jobs:
+      - lint-dockerfile
       - test-app
+      - build-app-karsajobs
