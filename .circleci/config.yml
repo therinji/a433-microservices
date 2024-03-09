@@ -1,10 +1,14 @@
 orbs:
   docker: circleci/docker@2.5.0
 version: 2.1
+jobs:
+  lint:
+    docker/hadolint:
+      dockerfiles: Dockerfile
+      ignore-rules: "DL4005,DL3008"
+      trusted-registries: "docker.io,my-company.com:5000"
+
 workflows:
   lint:
     jobs:
-      - docker/hadolint:
-          dockerfiles: Dockerfile
-          ignore-rules: "DL4005,DL3008"
-          trusted-registries: "docker.io,my-company.com:5000"
+      - lint
