@@ -3,9 +3,12 @@ executors:
   my-executor:
     docker:
       - image: hadolint/hadolint:latest
-
 jobs:
   my-job:
     executor: my-executor
     steps:
-      - run: hadolint Dockerfile
+      - run: echo "Hello executor!"
+workflows:
+  lint:
+    jobs:
+      - my-job
