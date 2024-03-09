@@ -1,20 +1,10 @@
 orbs:
   docker: circleci/docker@2.5.0
 version: 2.1
-executors:
-  my-executor:
-    docker:
-      - image: circleci/docker@2.5.0
-jobs:
-  my-job:
-    executor: my-executor
-    steps:
-      - run: echo "Hello executor!"
 workflows:
   lint:
     jobs:
-      - docker/hadolint
-          dockerfiles: "Dockerfile"
+      - docker/hadolint:
+          dockerfiles: Dockerfile
           ignore-rules: "DL4005,DL3008"
           trusted-registries: "docker.io,my-company.com:5000"
-      - my-job
