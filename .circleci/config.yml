@@ -28,4 +28,4 @@ workflows:
   lint-and-built-karsajobs-ui:
     jobs:
       - lint-dockerfile
-      - build-app-karsajobs
+      - build-app-karsajobs-ui
