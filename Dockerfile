@@ -11,4 +11,4 @@ RUN npm i
 # Ekspos bahwa port yang digunakan oleh aplikasi adalah 3001
 EXPOSE 3001
 # Saat container diluncurkan, jalankan server dengan perintah "npm start"
-CMD [ "npm", "start" ]
+CMD [ "node", "index.js"]
